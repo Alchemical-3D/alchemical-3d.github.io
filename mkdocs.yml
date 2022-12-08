@@ -1,0 +1,43 @@
+site_name: Alchemical 3D
+site_dir: public
+
+nav:
+  - Home: index.md
+
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-\.]'
+
+# Repository
+repo_name: github.com/Alchemical-3D
+repo_url: https://github.com/Alchemical-3D
+
+theme:
+  name: material
+  logo: assets/images/alchemical-3d-icon.png
+  palette:
+    scheme: slate
+    primary: pink
+    accent: black
+
+
+#  name: null
+#  custom_dir: !ENV [THEME_DIR, "material"]
+
+  features:
+    - search.suggest
+    - search.highlight
+
+#markdown_extensions:
+#  - def_list
+#  - pymdownx.tasklist:
+#      custom_checkbox: true
+
+extra:
+  analytics:
+    provider: google
+    property: G-7CJPBHEEV7
+
+  static_templates:
+    - 404.html

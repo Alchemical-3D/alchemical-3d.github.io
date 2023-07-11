@@ -22,19 +22,21 @@
 ## Features
 
 
-- Automatic Pressure Advance tuning using our laser triangulation system
+- Automatic Pressure Advance tuning using our laser triangulation system.
 
 - Automatic Extrusion Multiplier tuning using our laser triangulation system and Pestle extrusion system.
 
-- Built in resonance tuning with accelerometers usage integrated into klipper.
+- Built in resonance tuning and compensation with accelerometers usage integrated into klipper and the physical printer design.
 
-- Utilize 9mm belts to minimize stretch and reducing belt path lengths for reduction of noise and deformation in the system resulting in superior printing quality.
+- The 9mm belts minimize undesireable stretch and noise in the system resulting in superior printing quality.
 
-- Belt driven Z-axis creates a higher resolution Z plain for the maker and enables faster Z-hop maneuvers.  Z-Hop is critical to printed part quality by reducing stringing and blobbing on your parts.
+- Belt driven Z-axis creates a higher resolution Z plain for the maker and enables faster Z-hop maneuvers.  Z-Hop can be critical to printed part quality in some cases.
 
-- Easy to access and adjust belt tensions ensuring you can keep the system at peak performance at all times.   All belt tension systems are mechanically assisted, no more wedging a screw driver in and pushing while trying to tighten with a free hand.  Simply grab your hex wrench and go.
+- Easy to access to belt tension mechanisms ensure the system is at peak performance at all times.   All belt tension systems are mechanically assisted, no more wedging a screw driver in and pushing while trying to tighten with a free hand.  Grab a hex wrench and go.
 
-- Optional but integrated chamber air circulation and ventilation systems so the maker can print filaments such as ABS and ASA or others in a safer manor indoors.
+- Optional, (but integrated) chamber air circulation and ventilation systems so the maker can print filament in classes such as ABS and ASA indoors.
+
+- Optional, (but integrated) filament drying solution known as Retort, an advanced inteligent system with integration into klipper for both drying and storage of filament.
 
 - All motors outside heating chamber (except when using Direct Drive Config) reducing motor temperatures allowing higher current delivery.  Offering this slight overhead to the motors allows the user to increase current to these units for more torque.
 

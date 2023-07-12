@@ -3,6 +3,7 @@ site_dir: public
 
 nav:
   - Home: index.md
+  - Retort: retort.md
 
 plugins:
   - search:

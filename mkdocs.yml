@@ -3,6 +3,7 @@ site_dir: public
 
 nav:
   - Home: index.md
+  - Core: core.md
   - Retort: retort.md
 
 plugins:

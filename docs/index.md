@@ -15,6 +15,10 @@
 
 ![Award](/assets/images/Award.jpg)
 
+[![Light-Sense Rubedo Module](https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s).jpg)](https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s)
+
+https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s
+
 [![Rubedo](https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s)
 https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s
 

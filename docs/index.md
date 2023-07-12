@@ -1,74 +1,50 @@
-# Alchemical 3D
+# Bringing the future of additive manufacturing into the workshops of makers today.
 
-> Modular design, fully enclosed or open air CoreXYZ FDM 3D printer with direct drive and bowden extrusion system support, including the Alchemical-3D Pestle system for CoreXY.
+> Alchemical-3D was founded for one purpose, we observed the hobby space had in its own way become stagnant, affording manufacturers the ability to keep supplying the same parts over and over with different names and minor revisions.  Our mission statement is to break this mold, bring more advanced solutions to hobbyists now, while also offering other common sense solutions (and some over-engineered) to problems the community and businesses face today all while existing in the open-source framework.
 
- ![Alchemical Fire 1 Teaser](/assets/images/alchemical_fire1_web.png)
-
-## Project goals
-
-- Fully Enclosed or Open Air design by builders choice.  Removable and printable panels afford the builder options to customize, add, or remove features based on need and cost.
-
-- Support for multiple build volumes up to ~350mm and potentially larger later.   Initial printer release is focused on a 300x300x300 build volume.
-
-- Support for wide range of filament types including all of the "typical" selections makers are used to working with, PLA, PETG, ABS, ASA, TPU, etc.
-
-- Advanced sensor suite options including laser triangulation, filament width detection, accelerometers and more.
-
-- Printing speeds up to 300mm/s
-
-- Easy first layer calibration and auto detection of print issues using integrated lasers and camera system.
+ ![Alchemical Logo](/Alchemical-3D/Brand/blob/main/assets/png/!Alchemical-3D-Badge-Gradient-PRIMARY.png)
 
 
-## Features
+## Current Projects 
+
+### Core (3D Printer) https://alchemical-3d.com/core/
+- 3D printers are diverse and complex machines, with complex problems.  Our Core printer falls in the coreXY category of design.  This printer has been designed from the ground up to manage physical as well as thermal issues we encounter as hobbyists and print farmers.  The goal of this printer is to create a system that is not only easy to build, but affordable to build, while solving as many physical and thermal problems as possible.  We cannot say this will be the cheapest printer in your selection list, but we can say it surely will not be the most expensive.  Core will likely also be the most advanced printer you have on the list.  It is developed to include some of our own and others advanced systems, including Light-Sense, VOC filtration, thermal compensation, resonance compensation, filament width detection, and more.
+
+### Light-Sense (Laser Triangulation) (link coming soon)
+- One of the long standing problems the community and industry has faced is the time required to tune and manage printers production results.  Alchemical-3D identified this issue very early in our existence as we all have.   Light-Sense is meant to address the first steps toward the holy grail of printing, pushing a button and letting the printer tune itself.  Light-Sense is well into development and already partially functional while advancing further daily.   Light-Sense's first module Rubedo was on display at MRRF this year in Goshen Indiana, and will again be on display at ERRF this year in Maryland.  One of our developers, Mike has set the foundation to change everything in our space, see the video below.  The display of this hardware at MRRF prompted BTT to give Alchemical-3D the "Big Brain Energy Award" as well!
+
+![Award](/assets/images/Award.jpg)
+
+https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s
+
+### Retort (Filament Dryer & Storage) https://alchemical-3d.com/retort/
+- Second to the users day to day issues with or setting up filaments, is the age old issue of hygroscopic materials and fused depositition modeling (FDM).  The maker space we exist in has problems that must be solved.  As things are today the options are essentially overpriced dryer/storage solutions that in some cases are even fire hazards or dangerous to ones health (looking at you makers baking that ABS in your kitchen appliances) or otherwise require you to continue spending money on desiccant materials, and still do not do their job well or in a timely manor, and once they are done they provide little long term protection.  This is where Retort comes in and takes over as an affordable, scalable dryer and storage solution.
+
+### Pestle (Hybrid Extruder) https://alchemical-3d.com/pestle/
+There is an endless battle being waged in a war of words and pictures day to day in online venues.  The sides of this battle are Direct Drive and Bowden.   What if there was a middle-ground between the two, where you can keep most of the PA and retraction values from Direct Drive, but also not sacrifice the quality and indifference the Bowden system has to issue #6; all while substantially cutting tool-head mass?  This is where Pestle comes into play.  
+
+https://github.com/Alchemical-3D/Pestle_Rotational_Bowden
+
+## Join the conversation, follow our blog, or even contribute!
+
+DISCORD: https://discord.gg/aE49DW2xXe
+TWITTER: https://twitter.com/Alchemical3D
+GITHUB: https://github.com/Alchemical-3D
+PRINTABLES: https://www.printables.com/@Alchemical3D_390617
+EMAIL: we@alchemical-3d.com
+
+## Sponsors:
+> Alchemical-3D is extremely appreciative to all of our sponsors and the people who have put time and money into the community.  Please take time to visit these sites and do business with them, you will not find better sources of quality hardware and support.  Many of these sponsors products can be found across other stores as well.
+
+### USA
+- https://kb-3d.com/store/
+- https://www.fabreeko.com/
+
+### EU
+- https://3do.dk/
+- https://linneo.tech/
+
+### Woldwide
+- http://ldomotors.com/
 
 
-- Automatic Pressure Advance tuning using our laser triangulation system.
-
-- Automatic Extrusion Multiplier tuning using our laser triangulation system and Pestle extrusion system.
-
-- Built in resonance tuning and compensation with accelerometers usage integrated into klipper and the physical printer design.
-
-- The 9mm belts minimize undesireable stretch and noise in the system resulting in superior printing quality.
-
-- Belt driven Z-axis creates a higher resolution Z plain for the maker and enables faster Z-hop maneuvers.  Z-Hop can be critical to printed part quality in some cases.
-
-- Easy to access to belt tension mechanisms ensure the system is at peak performance at all times.   All belt tension systems are mechanically assisted, no more wedging a screw driver in and pushing while trying to tighten with a free hand.  Grab a hex wrench and go.
-
-- Optional, (but integrated) chamber air circulation and ventilation systems so the maker can print filament in classes such as ABS and ASA indoors.
-
-- Optional, (but integrated) filament drying solution known as Retort, an advanced inteligent system with integration into klipper for both drying and storage of filament.
-
-- All motors outside heating chamber (except when using Direct Drive Config) reducing motor temperatures allowing higher current delivery.  Offering this slight overhead to the motors allows the user to increase current to these units for more torque.
-
-- External electronics bay keeps those sensitive electronics from overheating during operation.  When electronics overheat they begin throttling.  This throttling can cause prints to fail or other defects during operation.
-
-
-## Key parts
-
-- 2020 frame members and gantry frame
-
-- 1x MGN12H Rails for X stability for the hotend.
-
-- 4x MGN9H Rails make up the Y/Z-axis, all redundant to ensure movement accuracy.
-
-- 9mm 2GT Belts on XYZ axis Motion
-
-- Heavy Duty Bearings and bolts ensure your parts stay where you want them to.
-
-- NEMA17 Motors XYZ 4042 as standard, support for NEMA17 4048 for XYZ
-
-- Printing out of ABS or ASA is required, PC or PC-ABS are also acceptable materials.
-
-- Fysetc Spider, Octopus, Manta M8P MCUs are all supported.
-
-- Alchemical-3D toolhead system initially supports Dragon and V6 hotends and many other to come
-
--  24V Power Standard, 48V Optional.   Additional space provided under printer for makers who desire to add 48V power supplies.
-
--  Mains bed (with heating pad) or 24V bed by user choice, mains bed is recommended for this build due to volume and heating times.
-
-## Software
-
--  Klipper + Mainsail or Fluidd
-
--  Pre-configured Alchemical-3D software and macros bundle.

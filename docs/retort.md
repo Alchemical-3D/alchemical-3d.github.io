@@ -4,7 +4,7 @@
 
 > Retort is a modular and expandable filament dryer solution capable of growing to the makers needs at first build or over time.
 
- ![Alchemical Fire 1 Teaser](/assets/images/alchemical_fire1_web.png)
+ ![3dprofilefront.png](https://github.com/Alchemical-3D/alchemical-3d.github.io/blob/main/docs/assets/images/img_retort/3dprofilefront.png)
 
 ## Project goals
 

@@ -36,11 +36,11 @@ https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s
 
 ## Join the conversation, follow our blog, or even contribute!
 
-[DISCORD](https://discord.gg/aE49DW2xXe)
-[TWITTER](https://twitter.com/Alchemical3D)
-[GITHUB](https://github.com/Alchemical-3D)
-[PRINTABLES](https://www.printables.com/@Alchemical3D_390617)
-[EMAIL](we@alchemical-3d.com)
+- [DISCORD](https://discord.gg/aE49DW2xXe)
+- [TWITTER](https://twitter.com/Alchemical3D)
+- [GITHUB](https://github.com/Alchemical-3D)
+- [PRINTABLES](https://www.printables.com/@Alchemical3D_390617)
+- [EMAIL](we@alchemical-3d.com)
 
 ## Sponsors:
 > Alchemical-3D is extremely appreciative to all of our sponsors and the people who have put time and money into the community.  Please take time to visit these sites and do business with them, you will not find better sources of quality hardware and support.  Many of these sponsors products can be found across other stores as well.

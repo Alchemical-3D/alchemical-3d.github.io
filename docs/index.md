@@ -17,12 +17,8 @@
 
 ![Award](/assets/images/Award.jpg)
 
-[![Light-Sense Rubedo Module](https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s).jpg)](https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s)
+[![Watch the video](https://img.youtube.com/vi/c1hrP0gduRU/default.jpg)](https://youtu.be/c1hrP0gduRU)
 
-https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s
-
-[![Rubedo](https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s)
-https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s
 
 ### [Retort (Filament Dryer & Storage)](https://alchemical-3d.com/retort/)
 

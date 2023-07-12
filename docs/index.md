@@ -15,6 +15,7 @@
 
 ![Award](/assets/images/Award.jpg)
 
+[![Rubedo](https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s)
 https://www.youtube.com/watch?v=c1hrP0gduRU&t=319s
 
 ### Retort (Filament Dryer & Storage) https://alchemical-3d.com/retort/

@@ -3,8 +3,9 @@ site_dir: public
 
 nav:
   - Home: index.md
-  - Core: core.md
-  - Retort: retort.md
+  - Core Printer: core.md
+  - Pestle Extruder: core.md
+  - Retort Filament Dryer: retort.md
 
 plugins:
   - search:

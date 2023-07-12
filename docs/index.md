@@ -2,7 +2,7 @@
 
 > Alchemical-3D was founded for one purpose, we observed the hobby space had in its own way become stagnant, affording manufacturers the ability to keep supplying the same parts over and over with different names and minor revisions.  Our mission statement is to break this mold, bring more advanced solutions to hobbyists now, while also offering other common sense solutions (and some over-engineered) to problems the community and businesses face today all while existing in the open-source framework.
 
- ![Alchemical Logo](/assets/images/!Alchemical-3D-Badge-Gradient-PRIMARY.svg)
+ ![Alchemical Logo](assets/images/Alchemical-3D-Logo-Gradient-PRIMARY-Transparent-Background.png)
 
 
 ## Current Projects 

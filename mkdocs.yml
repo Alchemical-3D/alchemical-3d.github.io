@@ -4,7 +4,7 @@ site_dir: public
 nav:
   - Home: index.md
   - Core Printer: core.md
-  - Pestle Extruder: core.md
+  - Pestle Extruder: pestle.md
   - Retort Filament Dryer: retort.md
 
 plugins:

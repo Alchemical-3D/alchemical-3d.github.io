@@ -36,7 +36,7 @@
 - [TWITTER](https://twitter.com/Alchemical3D)
 - [GITHUB](https://github.com/Alchemical-3D)
 - [PRINTABLES](https://www.printables.com/@Alchemical3D_390617)
-- [EMAIL](we@alchemical-3d.com)
+- [EMAIL](we@alchemical3d.net)
 
 ## Sponsors:
 > Alchemical-3D is extremely appreciative to all of our sponsors and the people who have put time and money into the community.  Please take time to visit these sites and do business with them, you will not find better sources of quality hardware and support.  Many of these sponsors products can be found across other stores as well.

@@ -3,7 +3,7 @@
 > A flexible Bowden system designed to fit almost anywhere, while providing rotational movement to support even shorter bowden assemblies.
 > https://github.com/Alchemical-3D/Pestle_Rotational_Bowden
 
- ![PestleExploded3.png](/assets/images/img_pestle/PestleExploded3.png)
+ ![PestleExploded3.png](assets/images/img_pestle/PestleExploded3.png)
 
 ## Project Information
 
@@ -21,7 +21,7 @@ The goal of this project is to provide an ultra lightweight but powerful extrude
 
 - Lower retraction values and requirements than traditional Bowden solutions (better).
 
-- Reduced weight on the toolhead allowing higher acceleration/decelleration values in relative to system capabilities at any given time.
+- Reduced weight on the toolhead allowing higher acceleration/deceleration values in relative to system capabilities at any given time.
 
 - Shorter PTFE length and fewer bend radii, resulting in a cleaner less resistive feed system.
 
@@ -34,7 +34,7 @@ The goal of this project is to provide an ultra lightweight but powerful extrude
 
 - The system can be built in the makers own workspace.
 
-- Pestle uses a round NEMA14 (or similar) 36STH20-1004AHG.
+- Pestle uses a round NEMA 14 (or similar) 36STH20-1004AHG.
 
 - Pestle is built with a typical Bondtech BMG parts kit. 
 
@@ -57,3 +57,6 @@ The goal of this project is to provide an ultra lightweight but powerful extrude
 - The maker is responsible for your own safety and equipment when building and using this system, you accept all liability when using these files and printed items from both pre and current release candidates!
 
 - The concept for this extruder was inspired by the now defunct Voron Jetpack. However, we would like to extend a special thanks to the Voron team for their inspiration on this product. Please take a moment if you are not familiar with the Voron project to educate yourself on the hard work they commit to the makerspace. https://vorondesign.com/
+
+***
+*Documentation prepared with AI editorial assistance • Engineered & maintained by Alchemical-3D.*

@@ -4,7 +4,7 @@
 
 > Retort is a modular and expandable filament dryer solution capable of growing to the makers needs at first build or over time.
 
- ![3dprofilefront.png](/assets/images/img_retort/3dprofilefront.png)
+ ![3dprofilefront.png](assets/images/img_retort/3dprofilefront.png)
 
 ## Project goals
 
@@ -15,7 +15,7 @@
 
 ## Features
 
-- Modularity starts at one roll of filament expanding to as many as the maker requires.  The the only limitations become power supply and address availability.  As the maker increases capacity, the linear cost of this system is also reduced from initial build cost.  
+- Modularity starts at one roll of filament expanding to as many as the maker requires.  The only limitations become power supply and address availability.  As the maker increases capacity, the linear cost of this system is also reduced from initial build cost.  
 
 - Retort fully interfaces with Klipper firmware allowing local and remote access to the hardware via the same familiar methods available today.  This enables the maker to control the unit from anywhere; just as though they were controlling their printer with the normal interface.  The single spool version of Retort draws power from its host printer and can be installed as a side panel, or a stand-alone object next to its host.  The larger multi-spool version of Retort; will be able to interface with a host printer, or have its own host unit installed for separate control.
 
@@ -46,3 +46,6 @@
 -  Klipper + Mainsail/Fluidd
 
 -  Pre-configured Alchemical-3D bundle customizable by end-user.
+
+***
+*Documentation prepared with AI editorial assistance • Engineered & maintained by Alchemical-3D.*

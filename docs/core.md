@@ -2,7 +2,7 @@
 
 > Modular design, fully enclosed or open air CoreXYZ FDM 3D printer with direct drive and bowden extrusion system support, including the Alchemical-3D Pestle system for CoreXY.
 
- ![Alchemical Core Teaser](/assets/images/img_core/alchemical-3d_core.png)
+ ![Alchemical Core Teaser](assets/images/img_core/alchemical-3d_core.png)
 
 ## Project goals
 
@@ -28,7 +28,7 @@
 
 - Built in resonance tuning and compensation with accelerometers usage integrated into klipper and the physical printer design.
 
-- The 9mm belts minimize undesireable stretch and noise in the system resulting in superior printing quality.
+- The 9mm belts minimize undesirable stretch and noise in the system resulting in superior printing quality.
 
 - Belt driven Z-axis creates a higher resolution Z plain for the maker and enables faster Z-hop maneuvers.  Z-Hop can be critical to printed part quality in some cases.
 
@@ -78,3 +78,6 @@
 -  Klipper + Mainsail or Fluidd
 
 -  Pre-configured Alchemical-3D software and macros bundle.
+
+***
+*Documentation prepared with AI editorial assistance • Engineered & maintained by Alchemical-3D.*
